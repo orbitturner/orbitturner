@@ -1,19 +1,19 @@
-
-<p align="center">
-  <a href="https://github.com/orbitturner/orbitnextframework"><img src="public/img/ONF_512.png" alt="Orbit Next Framework"/></a>
-</p>
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" align="center"/>
 
 ________
-
-| ![Work Status](https://img.shields.io/static/v1?label=WORK&message=In%20Progress&color=orange&style=for-the-badge) | ![Build Status](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/orbitturner/orbitnextframework/master/buildstatus.json&label=build&style=for-the-badge&logo=apache-rocketmq&logoColor=green) | ![Actual Version](https://img.shields.io/static/v1?label=Orbit%20Next%20Framework&message=v1.0.1&color=blue&style=for-the-badge&logo=Github) | ![PHP Version](https://img.shields.io/static/v1?label=PHP%20VERSION&message=@latest&color=blue&style=for-the-badge&logo=php) |
-|:-:|:-:|:-:|:-:|
-| ![GITHUB FOLLOW](https://img.shields.io/github/followers/orbitturner?style=social) | ![GITHUB STARS](https://img.shields.io/github/stars/orbitturner/orbitnextframework?style=social) | ![GITHUB WATCHER](https://img.shields.io/github/watchers/orbitturner/orbitnextframework?style=social) | <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" > |
-
-
-
 <p align="center">
-<a href="https://github.com/orbitturner/orbitnextframework"><img src="public/img/ONF_BG_V1_RESIZED.png" alt="Orbit Next Framework BG" width="auto" /></a>
+  <a href="http://orbitturner.yj.fr/"><img src="OrbitGalaxyGithub.png" width="auto" alt="Orbit Welcome BG"/></a>
 </p>
+ 
+
+#
+ 
+<p align="center">
+<a href="https://github.com/orbitturner/orbitnextframework/archive/ONF_V1.0.1.zip"><img src="https://img.shields.io/badge/PROUDLY-FROM%20THE%20GREAT-green?style=for-the-badge&logo=love&logoColor=GREEN"></a>
+<a href="https://github.com/orbitturner/orbitnextframework/issues/new/choose"><img src="https://img.shields.io/badge/COUNTRY-OF%SENEGAL-yellow?style=for-the-badge&logo=star&logoColor=yellow"></a>
+<a href="https://github.com/orbitturner/orbitnextframework/issues/new/choose"><img src="https://img.shields.io/badge/FROM%20THE%20SWEET-CONTINENT%20OF%20AFRICA-crimson?style=for-the-badge"></a>
+</p>
+
 
 #
 
