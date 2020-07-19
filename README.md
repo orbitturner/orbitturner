@@ -1,6 +1,3 @@
-<p align="center"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/></p>
-
-________
 <p align="center">
   <a href="http://orbitturner.yj.fr/"><img src="https://github.com/orbitturner/orbitturner/blob/master/OrbitGalaxyGithub.png?raw=true" width="auto" alt="Orbit Welcome BG"/></a>
 </p>
@@ -11,14 +8,20 @@ ________
 <p align="center">
 <a href="https://github.com/orbitturner/orbitnextframework/archive/ONF_V1.0.1.zip"><img src="https://img.shields.io/badge/PROUDLY-FROM%20THE%20GREAT-green?style=for-the-badge&logo=love&logoColor=GREEN"></a>
 <a href="https://github.com/orbitturner/orbitnextframework/issues/new/choose"><img src="https://img.shields.io/badge/COUNTRY%20OF%20-SENEGAL-ffc300?style=for-the-badge"></a>
-<a href="https://github.com/orbitturner/orbitnextframework/issues/new/choose"><img src="https://img.shields.io/badge/FROM%20THE%20SWEET-CONTINENT%20OF%20AFRICA-crimson?style=for-the-badge"></a>
+<a href="https://github.com/orbitturner/orbitnextframework/issues/new/choose"><img src="https://img.shields.io/badge/IN%20SWEET-CONTINENT%20OF%20AFRICA-crimson?style=for-the-badge"></a>
 </p>
 
 
 #
+ 
+<p align="center"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/></p>
 
+________
+<h1 align="center">🤩ABOUT ORBIT TURNER🤔</h1>
 <p  align="center">
-<strong>This is a Funny Easy Simple Lighweight *🇸🇳* Senegalese *🇸🇳* PHP Framework that have been made to help Newbies and Pro devs to code in a different way.</strong>
+<strong>First my real name is Mohamed GUEYE(😅).
+Above all, I am passionate about technology, science and art, but also a writer in my spare time.
+Mainly, I am a FullStack Designer and Web Developer living in Dakar, Senegal.</strong>
 </p>
 
 
