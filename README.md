@@ -26,10 +26,11 @@ Above all, I am passionate about technology, science and art, but also a writer 
 
 
 <br/>
-| <img src="https://img.shields.io/badge/PHP%20IS%20BAE-grey?style=for-the-badge&logo=php&logoWidth=25"/> 	| <img src="https://img.shields.io/badge/HTML_CSS-grey?style=for-the-badge&logo=html5&logoWidth=25"/> 	| <img src="https://img.shields.io/badge/JS-grey?style=for-the-badge&logo=javascript&logoWidth=25"/> 	| <img src="https://img.shields.io/badge/PYTHON-grey?style=for-the-badge&logo=PYTHON&logoWidth=25"/> 	|
-|:-:	|:-:	|:-:	|:-:	|
-| <img src="https://img.shields.io/badge/C%20LANGUAGE-grey?style=for-the-badge&logo=C&logoWidth=25"/> 	| <img src="https://img.shields.io/badge/C%20SHARP-grey?style=for-the-badge&logo=C%20sharp&logoWidth=25"/> 	| <img src="https://img.shields.io/badge/JAVA-grey?style=for-the-badge&logo=JAVA&logoWidth=25"/> 	| <img src="https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=mysql&logoWidth=25"/> 	|
-<!-- </p> -->
+
+| <img src="https://img.shields.io/badge/PHP%20IS%20BAE-grey?style=for-the-badge&logo=php&logoWidth=25"/> 	|    <img src="https://img.shields.io/badge/HTML_CSS-grey?style=for-the-badge&logo=html5&logoWidth=25"/>   	| <img src="https://img.shields.io/badge/JS-grey?style=for-the-badge&logo=javascript&logoWidth=25"/> 	| <img src="https://img.shields.io/badge/PYTHON-grey?style=for-the-badge&logo=PYTHON&logoWidth=25"/> 	|
+|:-------------------------------------------------------------------------------------------------------:	|:--------------------------------------------------------------------------------------------------------:	|:--------------------------------------------------------------------------------------------------:	|:--------------------------------------------------------------------------------------------------:	|
+|   <img src="https://img.shields.io/badge/C%20LANGUAGE-grey?style=for-the-badge&logo=C&logoWidth=25"/>   	| <img src="https://img.shields.io/badge/C%20SHARP-grey?style=for-the-badge&logo=C%20sharp&logoWidth=25"/> 	|   <img src="https://img.shields.io/badge/JAVA-grey?style=for-the-badge&logo=JAVA&logoWidth=25"/>   	|   <img src="https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=mysql&logoWidth=25"/>   	|
+
 <br>
 <br>
 
@@ -45,10 +46,15 @@ Above all, I am passionate about technology, science and art, but also a writer 
 
 <br>
 <h2 align="center">MY CURRENT ACTIVE PROJECT</h2>
-- [ORBIT NEXT FRAMEWORK](https://github.com/orbitturner/orbitnextframework)
-- [CITY MANAGER](https://github.com/orbitturner/gestionVillepdo)
-- [SHADOW CALCULATOR](https://github.com/orbitturner/ShadowCalculator)
-- [ESSENTIEL XIBAAR](https://github.com/orbitturner/essentielxibaar)
+
+- [ORBIT NEXT FRAMEWORK](https://github.com/orbitturner/orbitnextframework) - *This is a Funny Easy Simple Lighweight Senegalese PHP Framework that have been made to help Nebies and Pro devs to code in a different way*.
+
+- [CITY MANAGER](https://github.com/orbitturner/gestionVillepdo) - *A Web Project for managing cities with map to apply my PDO and AJAX knowledges*.
+
+- [SHADOW CALCULATOR](https://github.com/orbitturner/ShadowCalculator) - *A New Generation MultiFonction Calculator with cool features on C#*.
+
+- [ESSENTIEL XIBAAR](https://github.com/orbitturner/essentielxibaar) - *Essential Xibar is a modern information website that offers you just the essentials of national and international news in real time under different categories and with safe and clear sources*.
+
 <br/>
 <br/>
 <h2 align="center">FOLLOW THE ADVENTURE !</h2>
