@@ -19,30 +19,26 @@
 ________
 <h1 align="center">🤩ABOUT ORBIT TURNER🤔</h1>
 <p  align="center">
-<strong>First my real name is Mohamed GUEYE(😅).
+<strong>First, my real name is Mohamed GUEYE(😅) and I'm 20 Year Old.<br>
 Above all, I am passionate about technology, science and art, but also a writer in my spare time.
-Mainly, I am a FullStack Designer and Web Developer living in Dakar, Senegal.</strong>
+<br>Mainly, I am a FullStack Designer and Web Developer living in Dakar, Senegal.</strong>
 </p>
 
 
-________
-<h1 align="center">ABOUT ORBIT NEXT FRAMEWORK</h1>
+<br>
+<p align="center"><img src="https://img.shields.io/badge/MOST%20USED-PRORAMMING%20LANGUAGES-21618C?style=for-the-badge"/></p>
 
+| <img src="https://img.shields.io/badge/PHP%20IS%20BAE-grey?style=for-the-badge&logo=php&logoWidth=25"/> 	| <img src="https://img.shields.io/badge/HTML_CSS-grey?style=for-the-badge&logo=html5&logoWidth=25"/> 	| <img src="https://img.shields.io/badge/JS-grey?style=for-the-badge&logo=javascript&logoWidth=25"/> 	| <img src="https://img.shields.io/badge/PYTHON-grey?style=for-the-badge&logo=PYTHON&logoWidth=25"/> 	|
+|:-:	|:-:	|:-:	|:-:	|
+| <img src="https://img.shields.io/badge/C%20LANGUAGE-grey?style=for-the-badge&logo=C&logoWidth=25"/> 	| <img src="https://img.shields.io/badge/C%20SHARP-grey?style=for-the-badge&logo=C%20sharp&logoWidth=25"/> 	| <img src="https://img.shields.io/badge/JAVA-grey?style=for-the-badge&logo=JAVA&logoWidth=25"/> 	| <img src="https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=mysql&logoWidth=25"/> 	|
 
-**IT'S FIRST A FUNNY ADVENTURE !**<br/>
-***"Orbit Next Framework"*** is not a mega framework like symfony or whatever.<br/>
-Basically it was just a solution to solve a class project in OOP intended to deepen our knowledge in OOP in PHP.
-Then by trying to find a simple methodology allowing to succeed in making an OOP PHP project without getting tired or obstinate in managing NAMESPACES, classes, entities; I decided to create a structure that will manage the bulk of the project in the background allowing us to focus on analysis and design.<br/><br/>
-**ONF is Based on the M-V-C (MVC) methodology** and draws much inspiration from the great and Premier Senegalese FrameWork: ❤ [**SAMANE MVC**](https://github.com/ngorseckframework/samanemvc) ❤.
-<br/><br/>
-<h3 align="center">🚧⚒⚠ ONF IS STILL ON PROGRESS AND NOT FULLY FINISHED ⚠⚒🚧</h3>
-<br/><br/>
+<br>
+<br>
 
-<h1 align="center">REQUIREMENTS</h1>
+<h1 align="center">📞 CONTACT ME ☎</h1>
+![LINKEDIN](https://img.shields.io/badge/LINKEDIN-@orbitturner-0e76a8?style=for-the-badge&logo=linkedin&logoColor=0e76a8&logoWidth=25)
+![TWITTER](https://img.shields.io/badge/LINKEDIN-@orbitturner-0e76a8?style=for-the-badge&logo=linkedin&logoColor=0e76a8&logoWidth=25)
 
-- **PHP**       ✅: [`7.1 OR HIGHER`](https://www.php.net/)
-- **MySQL**     ✅: [`Website`](https://www.mysql.com/fr/)
-- **Composer**  ✅: [`For Doctrine ORM`](https://getcomposer.org/)
 
 
 <h1 align="center">INSTALLATION</h1>
