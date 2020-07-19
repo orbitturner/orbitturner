@@ -26,12 +26,10 @@ Above all, I am passionate about technology, science and art, but also a writer 
 
 
 <br>
-<p align="center"><img src="https://img.shields.io/badge/MOST%20USED-PRORAMMING%20LANGUAGES-21618C?style=for-the-badge"/></p>
-<p align="center">
 | <img src="https://img.shields.io/badge/PHP%20IS%20BAE-grey?style=for-the-badge&logo=php&logoWidth=25"/> 	| <img src="https://img.shields.io/badge/HTML_CSS-grey?style=for-the-badge&logo=html5&logoWidth=25"/> 	| <img src="https://img.shields.io/badge/JS-grey?style=for-the-badge&logo=javascript&logoWidth=25"/> 	| <img src="https://img.shields.io/badge/PYTHON-grey?style=for-the-badge&logo=PYTHON&logoWidth=25"/> 	|
 |:-:	|:-:	|:-:	|:-:	|
 | <img src="https://img.shields.io/badge/C%20LANGUAGE-grey?style=for-the-badge&logo=C&logoWidth=25"/> 	| <img src="https://img.shields.io/badge/C%20SHARP-grey?style=for-the-badge&logo=C%20sharp&logoWidth=25"/> 	| <img src="https://img.shields.io/badge/JAVA-grey?style=for-the-badge&logo=JAVA&logoWidth=25"/> 	| <img src="https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=mysql&logoWidth=25"/> 	|
-</p>
+<!-- </p> -->
 <br>
 <br>
 
@@ -47,10 +45,10 @@ Above all, I am passionate about technology, science and art, but also a writer 
 
 <br>
 <h2 align="center">MY CURRENT ACTIVE PROJECT</h2>
-* [ORBIT NEXT FRAMEWORK](https://github.com/orbitturner/orbitnextframework)
-* [CITY MANAGER](https://github.com/orbitturner/gestionVillepdo)
-* [SHADOW CALCULATOR](https://github.com/orbitturner/ShadowCalculator)
-* [ESSENTIEL XIBAAR](https://github.com/orbitturner/essentielxibaar)
+- [ORBIT NEXT FRAMEWORK](https://github.com/orbitturner/orbitnextframework)
+- [CITY MANAGER](https://github.com/orbitturner/gestionVillepdo)
+- [SHADOW CALCULATOR](https://github.com/orbitturner/ShadowCalculator)
+- [ESSENTIEL XIBAAR](https://github.com/orbitturner/essentielxibaar)
 <br/>
 <br/>
 <h2 align="center">FOLLOW THE ADVENTURE !</h2>
