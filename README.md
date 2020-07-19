@@ -36,8 +36,12 @@ Above all, I am passionate about technology, science and art, but also a writer 
 <br>
 
 <h1 align="center">📞 CONTACT ME ☎</h1>
-![LINKEDIN](https://img.shields.io/badge/LINKEDIN-@orbitturner-0e76a8?style=for-the-badge&logo=linkedin&logoColor=0e76a8&logoWidth=25)
-![TWITTER](https://img.shields.io/badge/LINKEDIN-@orbitturner-0e76a8?style=for-the-badge&logo=linkedin&logoColor=0e76a8&logoWidth=25)
+<a href="https://www.linkedin.com/in/orbitturner/"><img src="https://img.shields.io/badge/LINKEDIN-@orbitturner-0e76a8?style=for-the-badge&logo=linkedin&logoColor=0e76a8&logoWidth=25" alt="social_LINKEDIN"/></a>
+<a href="https://twitter.com/orbitturner"><img src="https://img.shields.io/badge/TWITTER-@orbitturner-1DA1F2?style=for-the-badge&logo=twitter&logoColor=1DA1F2&logoWidth=25" alt="social_twitter"></a>
+<a href="https://facebook.com/orbitturner"><img src="https://img.shields.io/badge/FACEBOOK-@orbitturner-4267B2?style=for-the-badge&logo=facebook&logoColor=4267B2&logoWidth=25" alt="social_facebook"></a>
+<a href="https://instagram.com/orbitturner"><img src="https://img.shields.io/badge/INSTAGRAM-@orbitturner-C13584?style=for-the-badge&logo=instagram&logoColor=C13584&logoWidth=25" alt="social_instagram"></a>
+<a href="https://youtube.com/orbitturner"><img src="https://img.shields.io/badge/YOUTUBE-@orbitturner-FF0000?style=for-the-badge&logo=youtube&logoColor=FF0000&logoWidth=25" alt="social_youtube"></a>
+<a href="mailto:orbitturner@gmail.com"><img src="https://img.shields.io/badge/GMAIL-@orbitturner-B23121?style=for-the-badge&logo=gmail&logoColor=B23121&logoWidth=25" alt="social_gmail"></a>
 
 
 
