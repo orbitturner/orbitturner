@@ -27,10 +27,19 @@ Above all, I am passionate about technology, science and art, but also a writer 
 
 <br/>
 
-| <img src="https://img.shields.io/badge/PHP%20IS%20BAE-grey?style=for-the-badge&logo=php&logoWidth=25"/> 	|    <img src="https://img.shields.io/badge/HTML_CSS-grey?style=for-the-badge&logo=html5&logoWidth=25"/>   	| <img src="https://img.shields.io/badge/JS-grey?style=for-the-badge&logo=javascript&logoWidth=25"/> 	| <img src="https://img.shields.io/badge/PYTHON-grey?style=for-the-badge&logo=PYTHON&logoWidth=25"/> 	|
+<!--| <img src="https://img.shields.io/badge/PHP%20IS%20BAE-grey?style=for-the-badge&logo=php&logoWidth=25"/> 	|    <img src="https://img.shields.io/badge/HTML_CSS-grey?style=for-the-badge&logo=html5&logoWidth=25"/>   	| <img src="https://img.shields.io/badge/JS-grey?style=for-the-badge&logo=javascript&logoWidth=25"/> 	| <img src="https://img.shields.io/badge/PYTHON-grey?style=for-the-badge&logo=PYTHON&logoWidth=25"/> 	|
 |:-------------------------------------------------------------------------------------------------------:	|:--------------------------------------------------------------------------------------------------------:	|:--------------------------------------------------------------------------------------------------:	|:--------------------------------------------------------------------------------------------------:	|
-|   <img src="https://img.shields.io/badge/C%20LANGUAGE-grey?style=for-the-badge&logo=C&logoWidth=25"/>   	| <img src="https://img.shields.io/badge/C%20SHARP-grey?style=for-the-badge&logo=C%20sharp&logoWidth=25"/> 	|   <img src="https://img.shields.io/badge/JAVA-grey?style=for-the-badge&logo=JAVA&logoWidth=25"/>   	|   <img src="https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=mysql&logoWidth=25"/>   	|
-
+|   <img src="https://img.shields.io/badge/C%20LANGUAGE-grey?style=for-the-badge&logo=C&logoWidth=25"/>   	| <img src="https://img.shields.io/badge/C%20SHARP-grey?style=for-the-badge&logo=C%20sharp&logoWidth=25"/> 	|   <img src="https://img.shields.io/badge/JAVA-grey?style=for-the-badge&logo=JAVA&logoWidth=25"/>   	|   <img src="https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=mysql&logoWidth=25"/>   	|-->
+<p align="center">
+<img src="https://img.shields.io/badge/PHP%20IS%20BAE-grey?style=for-the-badge&logo=php&logoWidth=25"/>
+<img src="https://img.shields.io/badge/HTML_CSS-grey?style=for-the-badge&logo=html5&logoWidth=25"/>
+<img src="https://img.shields.io/badge/JS-grey?style=for-the-badge&logo=javascript&logoWidth=25"/>
+<img src="https://img.shields.io/badge/PYTHON-grey?style=for-the-badge&logo=PYTHON&logoWidth=25"/>
+<img src="https://img.shields.io/badge/C%20LANGUAGE-grey?style=for-the-badge&logo=C&logoWidth=25"/>
+<img src="https://img.shields.io/badge/C%20SHARP-grey?style=for-the-badge&logo=C%20sharp&logoWidth=25"/>
+<img src="https://img.shields.io/badge/JAVA-grey?style=for-the-badge&logo=JAVA&logoWidth=25"/>
+<img src="https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=mysql&logoWidth=25"/>
+</p>  
 <br>
 <br>
 
