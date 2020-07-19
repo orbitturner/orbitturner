@@ -1,8 +1,8 @@
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" align="center"/>
+<p align="center"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/></p>
 
 ________
 <p align="center">
-  <a href="http://orbitturner.yj.fr/"><img src="OrbitGalaxyGithub.png" width="auto" alt="Orbit Welcome BG"/></a>
+  <a href="http://orbitturner.yj.fr/"><img src="https://github.com/orbitturner/orbitturner/OrbitGalaxyGithub.png?raw=true" width="auto" alt="Orbit Welcome BG"/></a>
 </p>
  
 
@@ -10,7 +10,7 @@ ________
  
 <p align="center">
 <a href="https://github.com/orbitturner/orbitnextframework/archive/ONF_V1.0.1.zip"><img src="https://img.shields.io/badge/PROUDLY-FROM%20THE%20GREAT-green?style=for-the-badge&logo=love&logoColor=GREEN"></a>
-<a href="https://github.com/orbitturner/orbitnextframework/issues/new/choose"><img src="https://img.shields.io/badge/COUNTRY-OF%SENEGAL-yellow?style=for-the-badge&logo=star&logoColor=yellow"></a>
+<a href="https://github.com/orbitturner/orbitnextframework/issues/new/choose"><img src="https://img.shields.io/badge/COUNTRY%20OF%20-SENEGAL-ffc300?style=for-the-badge"></a>
 <a href="https://github.com/orbitturner/orbitnextframework/issues/new/choose"><img src="https://img.shields.io/badge/FROM%20THE%20SWEET-CONTINENT%20OF%20AFRICA-crimson?style=for-the-badge"></a>
 </p>
 
