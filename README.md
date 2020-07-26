@@ -2,6 +2,10 @@
   <a href="http://orbitturner.yj.fr/"><img src="https://github.com/orbitturner/orbitturner/blob/master/OrbitGalaxyGithub.png?raw=true" width="auto" alt="Orbit Welcome BG"/></a>
 </p>
  
+ <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/orbitturner/count.svg" />
+</p>
 
 #
  
@@ -43,6 +47,11 @@ Above all, I am passionate about technology, science and art, but also a writer 
 <img src="https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=mysql&logoWidth=25"/>
 </p>  
 <br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+<!-- ![Orbit's Github Stats](https://github-readme-stats.vercel.app/api?username=orbitturner&show_icons=true&theme=tokyonight&count_private=true) -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=orbitturner&show_icons=true&theme=tokyonight&count_private=true" />
+</a>
 <br>
 
 <h1 align="center">📞 CONTACT ME ☎</h1>
