@@ -47,11 +47,12 @@ Above all, I am passionate about technology, science and art, but also a writer 
 <img src="https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=mysql&logoWidth=25"/>
 </p>  
 <br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats" align="center">
+<p align="center">
+<a href="https://github.com/orbitturner" >
 <!-- ![Orbit's Github Stats](https://github-readme-stats.vercel.app/api?username=orbitturner&show_icons=true&theme=tokyonight&count_private=true) -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=orbitturner&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=orbitturner&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
+ </p>
 <br>
 
 <h1 align="center">📞 CONTACT ME ☎</h1>
