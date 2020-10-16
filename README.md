@@ -63,7 +63,8 @@ Above all, I am passionate about technology, science and art, but also a writer 
 <a href="https://instagram.com/orbitturner"><img src="https://img.shields.io/badge/INSTAGRAM-@orbitturner-C13584?style=for-the-badge&logo=instagram&logoColor=C13584&logoWidth=25" alt="social_instagram"></a>
 <a href="https://youtube.com/orbitturner"><img src="https://img.shields.io/badge/YOUTUBE-@orbitturner-FF0000?style=for-the-badge&logo=youtube&logoColor=FF0000&logoWidth=25" alt="social_youtube"></a>
 <a href="mailto:orbitturner@gmail.com"><img src="https://img.shields.io/badge/GMAIL-@orbitturner-B23121?style=for-the-badge&logo=gmail&logoColor=B23121&logoWidth=25" alt="social_gmail"></a>
-<a href="https://www.buymeacoffee.com/orbitturner" target="_blank" style="height:25px;width:246px;"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height:25px;width:246px;"></a></p>
+<!-- <a href="https://www.buymeacoffee.com/orbitturner" target="_blank" style="height:25px;width:246px;"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height:25px;width:246px;"></a> -->
+</p>
 
 
 <br>
