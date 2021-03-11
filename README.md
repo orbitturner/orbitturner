@@ -100,6 +100,6 @@ Above all, I am passionate about technology, science and art, but also a writer 
 ______________________________________________________
 **❤ MADE WITH LOVE ❤**
 
-![Image of OT](https://github.com/orbitturner/challenger/blob/master/images/orbitturner1.png?raw=true)
+![Image of OT](./LOGO-OT)
 
 <img src="https://github.com/orbitturner/challenger/blob/master/images/OrbitTurner_Gaming_GitHubBadge.png?raw=true" align="right" />
