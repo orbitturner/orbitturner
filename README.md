@@ -70,13 +70,13 @@ Above all, I am passionate about technology, science and art, but also a writer 
 <br>
 <h2 align="center">MY CURRENT ACTIVE PROJECT</h2>
 
+- [ORBIT-JWT](https://github.com/orbitturner/orbit-jwt) - *It's a small and unopinionated library that is useful for automatically attaching a JSON Web Token (JWT) as an Authorization header when making HTTP requests from an Angular 10+ app. It also has a number of helper methods that are useful for doing things like decoding JWTs*.
+
 - [ORBIT NEXT FRAMEWORK](https://github.com/orbitturner/orbitnextframework) - *This is a Funny Easy Simple Lighweight Senegalese PHP Framework that have been made to help Nebies and Pro devs to code in a different way*.
 
-- [CITY MANAGER](https://github.com/orbitturner/gestionVillepdo) - *A Web Project for managing cities with map to apply my PDO and AJAX knowledges*.
+- [PROJECTS SPATIUM](https://github.com/orbitturner/PROJECTS_SPATIUM) - *A Pretty Launcher/Landing page for php servers*.
 
-- [SHADOW CALCULATOR](https://github.com/orbitturner/ShadowCalculator) - *A New Generation MultiFonction Calculator with cool features on C#*.
-
-- [ESSENTIEL XIBAAR](https://github.com/orbitturner/essentielxibaar) - *Essential Xibar is a modern information website that offers you just the essentials of national and international news in real time under different categories and with safe and clear sources*.
+- [OIO PLATFORM](https://e-oio.com/) - *The first international and united learning platform.*.
 
 <br/>
 <br/>
