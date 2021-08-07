@@ -95,10 +95,11 @@ ________
     src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=orbitturner&badges=2&show-avatar=true&style=--header-bg-color:#dc143c;--border-radius:10px"
   />
 </a>
-<a href="https://profile.codersrank.io/user/orbitturner/">
-  <img width="400"
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=orbitturner&skills=JavaScript,TypeScript&show-other-skills=true"
-  />
+<a href="https://orbitturner.com/">
+  <img height="182" src="https://github-readme-stats.vercel.app/api?username=orbitturner&show_icons=true&theme=tokyonight&count_private=true" />
+</a>
+<a href="https://orbitturner.com/">
+  ![Metrics](https://metrics.lecoq.io/orbitturner?template=classic&habits=1&projects=1&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&projects.limit=4&projects.descriptions=false&config.timezone=Atlantic%2FReykjavik)
 </a>
 </p>
 
