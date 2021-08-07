@@ -126,15 +126,22 @@ ________
 <h2 align="center">MY CURRENT ACTIVE PROJECT</h2>
 <div align="center">
 
-[![ORBIT JWT](https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=orbit-jwt)](https://github.com/orbitturner/orbit-jwt)
+<a href="https://github.com/orbitturner/orbit-jwt">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=orbit-jwt" />
+</a>
 
-[![ARRAY QUERIER](https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=array-querier)](https://github.com/orbitturner/array-querier)
+<a href="https://github.com/orbitturner/array-querier">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=array-querier" />
+</a>
 
-[![CLEAN CODE](https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=CLEAN-CODE)](https://github.com/orbitturner/CLEAN-CODE)
+<a href="https://github.com/orbitturner/CLEAN-CODE">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=CLEAN-CODE" />
+</a>
 
-[![DESIGN PATTERN DECORATOR](https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=Design-Pattern-Decorator)](https://github.com/orbitturner/Design-Pattern-Decorator)
+<a href="https://github.com/orbitturner/Design-Pattern-Decorator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=Design-Pattern-Decorator" />
+</a>
 
-[![OIO PLATFORM](https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=OIO PLATFORM)](https://e-oio.com/)
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=orbitturner&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
