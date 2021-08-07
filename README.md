@@ -95,17 +95,20 @@ ________
     src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=orbitturner&badges=2&show-avatar=true&style=--header-bg-color:%23dc143c;--border-radius:10px"
   />
 </a>
-<a href="https://profile.codersrank.io/user/orbitturner/">
+<!-- <a href="https://profile.codersrank.io/user/orbitturner/">
   <img width="400"
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=orbitturer&max-items=2&dates=false&style=--item-bg-color:%23dc143c;--item-border-radius:10px"
-/>
-</a>
-</p>
-<p align="center">
+/> -->
 <a href="https://orbitturner.com">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=orbitturner&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
+</a>
 </p>
+<!-- <p align="center">
+<a href="https://orbitturner.com">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=orbitturner&show_icons=true&theme=tokyonight&count_private=true" />
+</a>
+</p> -->
 
 <br>
 
@@ -141,10 +144,17 @@ ________
 <a href="https://github.com/orbitturner/Design-Pattern-Decorator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=Design-Pattern-Decorator" />
 </a>
-
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=orbitturner&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<br/>
+<br/>
+
+<div align="center">
+<a href="https://orbitturner.com">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=orbitturner&theme=onedark" />
+</a>
+</div>
+
 
 <!-- - [OIO PLATFORM](https://e-oio.com/) - *The first international and united learning platform.*. -->
 
