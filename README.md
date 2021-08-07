@@ -96,10 +96,12 @@ ________
   />
 </a>
 <a href="https://orbitturner.com/">
-  <img height="182" src="https://github-readme-stats.vercel.app/api?username=orbitturner&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="400"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=YOUR_USERNAME&max-items=2&dates=false&style=--item-bg-color:%23f00;--item-border-radius:10px"
+/>
 </a>
 </p>
-![Metrics](https://metrics.lecoq.io/orbitturner?template=classic&habits=1&projects=1&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&projects.limit=4&projects.descriptions=false&config.timezone=Atlantic%2FReykjavik)
+
 <br>
 
 <h1 align="center">📞 CONTACT ME ☎</h1>
