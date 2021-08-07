@@ -88,14 +88,13 @@ Above all, I am passionate about 🚀Technology💻, 🧪Science🔭 and 🚗Car
 <br>
 <h2 align="center">😉 Some Stats !📈</h2>
 <p align="center">
-<a href="https://orbitturner.com/" >
-<!-- ![Orbit's Github Stats](https://github-readme-stats.vercel.app/api?username=orbitturner&show_icons=true&theme=tokyonight&count_private=true) -->
+<a href="https://orbitturner.com/" width="400">
   <img src="https://github-readme-stats.vercel.app/api?username=orbitturner&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
 <a href="https://profile.codersrank.io/user/orbitturner/">
-<img width="400"
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=orbitturner&badges=2&show-avatar=true&style=--header-bg-color:#dc143c;--border-radius:10px&width=400"
-/>
+  <img width="400"
+    src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=orbitturner&badges=2&show-avatar=true&style=--header-bg-color:#dc143c;--border-radius:10px"
+  />
 </a>
 </p>
 
