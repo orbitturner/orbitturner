@@ -182,6 +182,7 @@ ________
 ______________________________________________________
 **❤ MADE WITH LOVE ❤**
 
-![Image of OT](./LOGO-OT.png)
+<img src="./LOGO-OT.png" alt="Logo of OT" align="right" />
+
 
 <img src="https://github.com/orbitturner/challenger/blob/master/images/OrbitTurner_Gaming_GitHubBadge.png?raw=true" align="right" />
