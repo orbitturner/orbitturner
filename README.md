@@ -21,7 +21,7 @@
 <p align="center"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"/></p> -->
 
 ________
-<h1 align="left">🤩ABOUT ORBIT TURNER🤔</h1>
+<h1 align="left">🤩 About Orbit Turner 🤔</h1>
 <p  align="left">
 <strong>First, my real name is Mohamed GUEYE(😅) and I'm 22 Year Old.<br>
 Above all, I am passionate about 🚀Technology💻, 🧪Science🔭 and 🚗Cars🚘, but also a writer in my spare time.
@@ -32,9 +32,9 @@ Above all, I am passionate about 🚀Technology💻, 🧪Science🔭 and 🚗Car
 <br/>
 
 
-<p align="left"><img src="https://img.shields.io/badge/MOST%20USED-TECH%20STACK%20&%20TOOLS-21618C?style=for-the-badge"/></p>	
+<p align="center"><img src="https://img.shields.io/badge/MOST%20USED-TECH%20STACK%20&%20TOOLS-21618C?style=for-the-badge"/></p>	
 
-<div align="left">
+<div align="center">
 <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular-icon.svg"/>
 <img width="40" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nestjs.svg"/>
 
@@ -112,7 +112,7 @@ ________
 
 <br>
 
-<h1 align="left">📞 CONTACT ME ☎</h1>
+<h1 align="left">📞 Let's Meet ☎</h1>
 <p align="left">
 <a href="https://www.linkedin.com/in/orbitturner/"><img src="https://img.shields.io/badge/LINKEDIN-@orbitturner-0e76a8?style=for-the-badge&logo=linkedin&logoColor=0e76a8&logoWidth=25" alt="social_LINKEDIN"/></a>
 <a href="https://twitter.com/orbitturner"><img src="https://img.shields.io/badge/TWITTER-@orbitturner-1DA1F2?style=for-the-badge&logo=twitter&logoColor=1DA1F2&logoWidth=25" alt="social_twitter"></a>
@@ -126,7 +126,7 @@ ________
 
 
 <br>
-<h2 align="left">MY CURRENT ACTIVE PROJECT</h2>
+<h2 align="left">My Most Visited Repos</h2>
 <div align="center">
 
 <a href="https://github.com/orbitturner/orbit-jwt">
@@ -160,7 +160,7 @@ ________
 
 <br/>
 <br/>
-<h2 align="left">🚀FOLLOW THE ADVENTURE !🚀</h2>
+<h2 align="left">🚀FOLLOW THE ADVENTURE ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 🚀</h2>
 
 ```
 *
