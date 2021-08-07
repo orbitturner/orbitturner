@@ -117,24 +117,26 @@ ________
 <a href="https://instagram.com/orbitturner"><img src="https://img.shields.io/badge/INSTAGRAM-@orbitturner-C13584?style=for-the-badge&logo=instagram&logoColor=C13584&logoWidth=25" alt="social_instagram"></a>
 <a href="https://youtube.com/orbitturner"><img src="https://img.shields.io/badge/YOUTUBE-@orbitturner-FF0000?style=for-the-badge&logo=youtube&logoColor=FF0000&logoWidth=25" alt="social_youtube"></a>
 <a href="mailto:orbitturner@gmail.com"><img src="https://img.shields.io/badge/GMAIL-@orbitturner-B23121?style=for-the-badge&logo=gmail&logoColor=B23121&logoWidth=25" alt="social_gmail"></a>
-<a href="mailto:orbitturner@gmail.com"><img src="https://img.shields.io/badge/CODERSRANK-@orbitturner-B23121?style=for-the-badge&logo=codersrank&logoColor=4098a2&logoWidth=25" alt="social_codersrank"></a>
+<a href="mailto:orbitturner@gmail.com"><img src="https://img.shields.io/badge/CODERSRANK-@orbitturner-4098a2?style=for-the-badge&logo=codersrank&logoColor=4098a2&logoWidth=25" alt="social_codersrank"></a>
 <!-- <a href="https://www.buymeacoffee.com/orbitturner" target="_blank" style="height:25px;width:246px;"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height:25px;width:246px;"></a> -->
 </p>
 
 
 <br>
 <h2 align="center">MY CURRENT ACTIVE PROJECT</h2>
+<div align="center">
+[![ORBIT JWT](https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=orbit-jwt)](https://github.com/orbitturner/orbit-jwt)
 
-- [![ORBIT JWT](https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=orbit-jwt)](https://github.com/orbitturner/orbit-jwt)
+[![ARRAY QUERIER](https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=array-querier)](https://github.com/orbitturner/array-querier)
 
-- [![ARRAY QUERIER](https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=array-querier)](https://github.com/orbitturner/array-querier)
+[![CLEAN CODE](https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=CLEAN-CODE)](https://github.com/orbitturner/CLEAN-CODE)
 
-- [![CLEAN CODE](https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=CLEAN-CODE)](https://github.com/orbitturner/CLEAN-CODE)
+[![DESIGN PATTERN DECORATOR](https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=Design-Pattern-Decorator)](https://github.com/orbitturner/Design-Pattern-Decorator)
 
-- [![DESIGN PATTERN DECORATOR](https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=Design-Pattern-Decorator)](https://github.com/orbitturner/Design-Pattern-Decorator)
+[![OIO PLATFORM](https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=OIO PLATFORM)](https://e-oio.com/)
+</div>
 
-- [![OIO PLATFORM](https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=OIO PLATFORM)](https://e-oio.com/)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=orbitturner&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- - [OIO PLATFORM](https://e-oio.com/) - *The first international and united learning platform.*. -->
 
