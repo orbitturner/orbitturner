@@ -95,14 +95,14 @@ ________
     src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=orbitturner&badges=2&show-avatar=true&style=--header-bg-color:%23dc143c;--border-radius:10px"
   />
 </a>
-<a href="https://orbitturner.com/">
+<a href="https://profile.codersrank.io/user/orbitturner/">
   <img width="400"
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=orbitturer&max-items=2&dates=false&style=--item-bg-color:%23dc143c;--item-border-radius:10px"
 />
 </a>
 </p>
 <p align="center">
-<a href="https://profile.codersrank.io/user/orbitturner/">
+<a href="https://orbitturner.com">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=orbitturner&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
 </p>
@@ -117,7 +117,7 @@ ________
 <a href="https://instagram.com/orbitturner"><img src="https://img.shields.io/badge/INSTAGRAM-@orbitturner-C13584?style=for-the-badge&logo=instagram&logoColor=C13584&logoWidth=25" alt="social_instagram"></a>
 <a href="https://youtube.com/orbitturner"><img src="https://img.shields.io/badge/YOUTUBE-@orbitturner-FF0000?style=for-the-badge&logo=youtube&logoColor=FF0000&logoWidth=25" alt="social_youtube"></a>
 <a href="mailto:orbitturner@gmail.com"><img src="https://img.shields.io/badge/GMAIL-@orbitturner-B23121?style=for-the-badge&logo=gmail&logoColor=B23121&logoWidth=25" alt="social_gmail"></a>
-<a href="mailto:orbitturner@gmail.com"><img src="https://img.shields.io/badge/GMAIL-@orbitturner-B23121?style=for-the-badge&logo=codersrank&logoColor=B23121&logoWidth=25" alt="social_gmail"></a>
+<a href="mailto:orbitturner@gmail.com"><img src="https://img.shields.io/badge/CODERSRANK-@orbitturner-B23121?style=for-the-badge&logo=codersrank&logoColor=4098a2&logoWidth=25" alt="social_codersrank"></a>
 <!-- <a href="https://www.buymeacoffee.com/orbitturner" target="_blank" style="height:25px;width:246px;"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height:25px;width:246px;"></a> -->
 </p>
 
@@ -125,13 +125,18 @@ ________
 <br>
 <h2 align="center">MY CURRENT ACTIVE PROJECT</h2>
 
-- [ORBIT-JWT](https://github.com/orbitturner/orbit-jwt) - *It's a small and unopinionated library that is useful for automatically attaching a JSON Web Token (JWT) as an Authorization header when making HTTP requests from an Angular 10+ app. It also has a number of helper methods that are useful for doing things like decoding JWTs*.
+- [![ORBIT JWT](https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=orbit-jwt)](https://github.com/orbitturner/orbit-jwt)
 
-- [ORBIT NEXT FRAMEWORK](https://github.com/orbitturner/orbitnextframework) - *This is a Funny Easy Simple Lighweight Senegalese PHP Framework that have been made to help Nebies and Pro devs to code in a different way*.
+- [![ARRAY QUERIER](https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=array-querier)](https://github.com/orbitturner/array-querier)
 
-- [PROJECTS SPATIUM](https://github.com/orbitturner/PROJECTS_SPATIUM) - *A Pretty Launcher/Landing page for php servers*.
+- [![CLEAN CODE](https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=CLEAN-CODE)](https://github.com/orbitturner/CLEAN-CODE)
 
-- [OIO PLATFORM](https://e-oio.com/) - *The first international and united learning platform.*.
+- [![DESIGN PATTERN DECORATOR](https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=Design-Pattern-Decorator)](https://github.com/orbitturner/Design-Pattern-Decorator)
+
+- [![OIO PLATFORM](https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=OIO PLATFORM)](https://e-oio.com/)
+
+
+<!-- - [OIO PLATFORM](https://e-oio.com/) - *The first international and united learning platform.*. -->
 
 <br/>
 <br/>
