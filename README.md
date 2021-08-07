@@ -34,60 +34,23 @@ Above all, I am passionate about 🚀Technology💻, 🧪Science🔭 and 🚗Car
 
 <p align="center"><img src="https://img.shields.io/badge/MOST%20USED-TECH%20STACK%20&%20TOOLS-21618C?style=for-the-badge"/></p>	
 
-<div align="center" style="display: inline">
-<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular-icon.svg"/>
-<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nestjs.svg"/>
-</div> 
-<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg"/>
-<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
-<img width="55" src="https://cdn.svgporn.com/logos/reactivex.svg"/>
-<img width="55" src="https://cdn.svgporn.com/logos/pwa.svg"/>
+<div align="center">
+<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular-icon.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nestjs.svg"/></div> <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logostypescript-icon.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascriptsvg"/><img width="55" src="https://cdn.svgporn.com/logos/reactivex.svg"/><img width="55" src="https://cdn.svgporn.com/logos/pwa.svg"/><img width="55" src="https://cdn.svgporn.com/logos/java.svg"/><img width="55" src="https://cdn.svgporn.com/logos/spring-icon.svg"/><img width="55" src="https://cdn.svgporn.com/logos/python.svg"/><img width="55" src="https://cdn.svgporn.com/logos/django-icon.svg"/><img width="55" src="https://cdn.svgporn.com/logos/php.svg"/><img width="55" src="https://cdn.svgporn.com/logos/wordpress-icon.svg"/><img width="55" src="https://cdn.svgporn.com/logos/symfony.svg"/><img width="55" src="https://cdn.svgporn.com/logos/laravel.svg"/><img width="55" src="https://cdn.svgporn.com/logos/c-sharp.svg"/><img width="55" src="https://cdn.svgporn.com/logos/dotnet.svg"/><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg"/><img width="55" src="https://cdn.svgporn.com/logos/google-cloud.svg"/><img width="55" src="https://cdn.svgporn.com/logos/google-analytics.svg"/><img width="55" src="https://cdn.svgporn.com/logos/netlify.svg"/><img width="55" src="https://cdn.svgporn.com/logos/heroku-icon.svg"/><img width="55" src="https://cdn.svgporn.com/logos/digital-ocean.svg"/><img width="55" src="https://cdn.svgporn.com/logos/firebase.svg"/><img width="55" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/><img width="55" src="https://cdn.svgporn.com/logos/mysql.svg"/><img width="55" src="https://cdn.svgporn.com/logos/postgresql.svg"/><img width="55" src="https://cdn.svgporn.com/logos/bootstrap.svg"/><img width="55" src="https://cdn.svgporn.com/logos/sass.svg"/><img width="55" src="https://cdn.svgporn.com/logos/karma.svg"/><img width="55" src="https://cdn.svgporn.com/logos/protactor.svg"/><img width="55" src="https://cdn.svgporn.com/logos/jest.svg"/><img width="55" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"/><img width="55" src="https://cdn.svgporn.com/logos/webstorm.svg"/><img width="55" src="https://cdn.svgporn.com/logos/insomnia.svg"/><img width="55" src="https://cdn.svgporn.com/logos/codersrank.svg"/><img width="55" src="https://cdn.svgporn.com/logos/figma.svg"/><img width="55" src="https://cdn.svgporn.com/logos/terminal.svg"/>
 
-<img width="55" src="https://cdn.svgporn.com/logos/java.svg"/>
-<img width="55" src="https://cdn.svgporn.com/logos/spring-icon.svg"/>
-
-<img width="55" src="https://cdn.svgporn.com/logos/python.svg"/>
-<img width="55" src="https://cdn.svgporn.com/logos/django-icon.svg"/>
-
-<img width="55" src="https://cdn.svgporn.com/logos/php.svg"/>
-<img width="55" src="https://cdn.svgporn.com/logos/wordpress-icon.svg"/>
-<img width="55" src="https://cdn.svgporn.com/logos/symfony.svg"/>
-<img width="55" src="https://cdn.svgporn.com/logos/laravel.svg"/>
-
-<img width="55" src="https://cdn.svgporn.com/logos/c-sharp.svg"/>
-<img width="55" src="https://cdn.svgporn.com/logos/dotnet.svg"/>
-<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg"/>
-
-<img width="55" src="https://cdn.svgporn.com/logos/google-cloud.svg"/>
-<img width="55" src="https://cdn.svgporn.com/logos/digital-ocean.svg"/>
-
-<img width="55" src="https://cdn.svgporn.com/logos/firebase.svg"/>
-<img width="55" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
-<img width="55" src="https://cdn.svgporn.com/logos/mysql.svg"/>
-<img width="55" src="https://cdn.svgporn.com/logos/postgresql.svg"/>
-
-<img width="55" src="https://cdn.svgporn.com/logos/bootstrap.svg"/>
-<img width="55" src="https://cdn.svgporn.com/logos/sass.svg"/>
-
-<img width="55" src="https://cdn.svgporn.com/logos/karma.svg"/>
-<img width="55" src="https://cdn.svgporn.com/logos/protactor.svg"/>
-<img width="55" src="https://cdn.svgporn.com/logos/jest.svg"/>
-
-<img width="55" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"/>
-<img width="55" src="https://cdn.svgporn.com/logos/webstorm.svg"/>
-<img width="55" src="https://cdn.svgporn.com/logos/insomnia.svg"/>
-
-<img width="55" src="https://cdn.svgporn.com/logos/figma.svg"/>
-<img width="55" src="https://cdn.svgporn.com/logos/terminal.svg"/>
 
 <br>
 
 <p align="center">
-<a href="https://github.com/orbitturner" >
+<a href="https://orbitturner.com/" >
 <!-- ![Orbit's Github Stats](https://github-readme-stats.vercel.app/api?username=orbitturner&show_icons=true&theme=tokyonight&count_private=true) -->
   <img src="https://github-readme-stats.vercel.app/api?username=orbitturner&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
- </p>
+<a href="https://profile.codersrank.io/user/orbitturner/">
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=orbitturner&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
+</a>
+</p>
 
 <br>
 
@@ -99,6 +62,7 @@ Above all, I am passionate about 🚀Technology💻, 🧪Science🔭 and 🚗Car
 <a href="https://instagram.com/orbitturner"><img src="https://img.shields.io/badge/INSTAGRAM-@orbitturner-C13584?style=for-the-badge&logo=instagram&logoColor=C13584&logoWidth=25" alt="social_instagram"></a>
 <a href="https://youtube.com/orbitturner"><img src="https://img.shields.io/badge/YOUTUBE-@orbitturner-FF0000?style=for-the-badge&logo=youtube&logoColor=FF0000&logoWidth=25" alt="social_youtube"></a>
 <a href="mailto:orbitturner@gmail.com"><img src="https://img.shields.io/badge/GMAIL-@orbitturner-B23121?style=for-the-badge&logo=gmail&logoColor=B23121&logoWidth=25" alt="social_gmail"></a>
+<a href="mailto:orbitturner@gmail.com"><img src="https://img.shields.io/badge/GMAIL-@orbitturner-B23121?style=for-the-badge&logo=codersrank&logoColor=B23121&logoWidth=25" alt="social_gmail"></a>
 <!-- <a href="https://www.buymeacoffee.com/orbitturner" target="_blank" style="height:25px;width:246px;"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height:25px;width:246px;"></a> -->
 </p>
 
