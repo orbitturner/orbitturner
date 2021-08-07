@@ -103,7 +103,7 @@ ________
 </p>
 <p align="center">
 <a href="https://profile.codersrank.io/user/orbitturner/">
-  <img height="400" src="https://github-readme-stats.vercel.app/api?username=orbitturner&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=orbitturner&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
 </p>
 
