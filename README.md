@@ -180,9 +180,9 @@ ________
 
 
 ______________________________________________________
-**❤ MADE WITH LOVE ❤**
+**❤ KEEP GOING FURTHER ❤**
 
-<img src="./LOGO-OT.png" alt="Logo of OT" align="right" />
+<img src="./LOGO-OT.png" alt="Logo of OT" align="left" />
 
 
 <img src="https://github.com/orbitturner/challenger/blob/master/images/OrbitTurner_Gaming_GitHubBadge.png?raw=true" align="right" />
