@@ -113,7 +113,7 @@ ________
 <br>
 
 <h1 align="left">📞 Let's Meet ☎</h1>
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/orbitturner/"><img src="https://img.shields.io/badge/LINKEDIN-@orbitturner-0e76a8?style=for-the-badge&logo=linkedin&logoColor=0e76a8&logoWidth=25" alt="social_LINKEDIN"/></a>
 <a href="https://twitter.com/orbitturner"><img src="https://img.shields.io/badge/TWITTER-@orbitturner-1DA1F2?style=for-the-badge&logo=twitter&logoColor=1DA1F2&logoWidth=25" alt="social_twitter"></a>
 <a href="https://facebook.com/orbitturner"><img src="https://img.shields.io/badge/FACEBOOK-@orbitturner-4267B2?style=for-the-badge&logo=facebook&logoColor=4267B2&logoWidth=25" alt="social_facebook"></a>
