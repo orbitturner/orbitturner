@@ -86,9 +86,11 @@ Above all, I am passionate about 🚀Technology💻, 🧪Science🔭 and 🚗Car
 
 
 <br>
-<h2 align="center">😉 Some Stats !📈</h2>
+<br>
+
+<h1 align="center">😉 Some Stats !📈</h1>
 <p align="center">
-<a href="https://orbitturner.com/" width="150">
+<a href="https://orbitturner.com/" width="150px">
   <img src="https://github-readme-stats.vercel.app/api?username=orbitturner&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
 <a href="https://profile.codersrank.io/user/orbitturner/">
