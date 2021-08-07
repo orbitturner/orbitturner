@@ -34,7 +34,7 @@ Above all, I am passionate about 🚀Technology💻, 🧪Science🔭 and 🚗Car
 
 <p align="center"><img src="https://img.shields.io/badge/MOST%20USED-TECH%20STACK%20&%20TOOLS-21618C?style=for-the-badge"/></p>	
 
-<div align="center" style="display: inline-block">
+<div align="center" style="display: inline">
 <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular-icon.svg"/>
 <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nestjs.svg"/>
 </div> 
