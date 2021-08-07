@@ -84,14 +84,14 @@ Above all, I am passionate about 🚀Technology💻, 🧪Science🔭 and 🚗Car
 <img width="50" src="https://cdn.svgporn.com/logos/figma.svg"/>
 <img width="50" src="https://cdn.svgporn.com/logos/terminal.svg"/>
 
-
+________
 <br>
 <br>
 
 <h1 align="center">😉 Some Stats !📈</h1>
 <p align="center">
-<a href="https://orbitturner.com/" width="150px">
-  <img src="https://github-readme-stats.vercel.app/api?username=orbitturner&show_icons=true&theme=tokyonight&count_private=true" />
+<a href="https://orbitturner.com/">
+  <img width="350" src="https://github-readme-stats.vercel.app/api?username=orbitturner&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
 <a href="https://profile.codersrank.io/user/orbitturner/">
   <img width="400"
