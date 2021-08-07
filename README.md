@@ -23,36 +23,72 @@
 ________
 <h1 align="center">🤩ABOUT ORBIT TURNER🤔</h1>
 <p  align="center">
-<strong>First, my real name is Mohamed GUEYE(😅) and I'm 20 Year Old.<br>
-Above all, I am passionate about technology, science and art, but also a writer in my spare time.
-<br>Mainly, I am a FullStack Designer and Web Developer living in Dakar, Senegal.</strong>
+<strong>First, my real name is Mohamed GUEYE(😅) and I'm 22 Year Old.<br>
+Above all, I am passionate about 🚀Technology💻, 🧪Science🔭 and 🚗Cars🚘, but also a writer in my spare time.
+<br>Mainly, I am a FullStack Designer and Developer living in Dakar, Senegal.</strong>
 </p>
 
 
 <br/>
 
-<!--| <img src="https://img.shields.io/badge/PHP%20IS%20BAE-grey?style=for-the-badge&logo=php&logoWidth=25"/> 	|    <img src="https://img.shields.io/badge/HTML_CSS-grey?style=for-the-badge&logo=html5&logoWidth=25"/>   	| <img src="https://img.shields.io/badge/JS-grey?style=for-the-badge&logo=javascript&logoWidth=25"/> 	| <img src="https://img.shields.io/badge/PYTHON-grey?style=for-the-badge&logo=PYTHON&logoWidth=25"/> 	|
-|:-------------------------------------------------------------------------------------------------------:	|:--------------------------------------------------------------------------------------------------------:	|:--------------------------------------------------------------------------------------------------:	|:--------------------------------------------------------------------------------------------------:	|
-|   <img src="https://img.shields.io/badge/C%20LANGUAGE-grey?style=for-the-badge&logo=C&logoWidth=25"/>   	| <img src="https://img.shields.io/badge/C%20SHARP-grey?style=for-the-badge&logo=C%20sharp&logoWidth=25"/> 	|   <img src="https://img.shields.io/badge/JAVA-grey?style=for-the-badge&logo=JAVA&logoWidth=25"/>   	|   <img src="https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=mysql&logoWidth=25"/>   	|-->
-<p align="center"><img src="https://img.shields.io/badge/MOST%20USED-PRORAMMING%20LANGUAGES-21618C?style=for-the-badge"/></p>	
 
-<p align="center">
-<img src="https://img.shields.io/badge/PHP%20IS%20BAE-grey?style=for-the-badge&logo=php&logoWidth=25"/>
-<img src="https://img.shields.io/badge/HTML_CSS-grey?style=for-the-badge&logo=html5&logoWidth=25"/>
-<img src="https://img.shields.io/badge/JS-grey?style=for-the-badge&logo=javascript&logoWidth=25"/>
-<img src="https://img.shields.io/badge/PYTHON-grey?style=for-the-badge&logo=PYTHON&logoWidth=25"/>
-<img src="https://img.shields.io/badge/C%20LANGUAGE-grey?style=for-the-badge&logo=C&logoWidth=25"/>
-<img src="https://img.shields.io/badge/C%20SHARP-grey?style=for-the-badge&logo=C%20sharp&logoWidth=25"/>
-<img src="https://img.shields.io/badge/JAVA-grey?style=for-the-badge&logo=JAVA&logoWidth=25"/>
-<img src="https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=mysql&logoWidth=25"/>
-</p>  
+<p align="center"><img src="https://img.shields.io/badge/MOST%20USED-TECH%20STACK%20&%20TOOLS-21618C?style=for-the-badge"/></p>	
+
+<div align="center">
+<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular-icon.svg"/>
+<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nestjs.svg"/>
+</div> 
+<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg"/>
+<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
+<img width="55" src="https://cdn.svgporn.com/logos/reactivex.svg"/>
+<img width="55" src="https://cdn.svgporn.com/logos/pwa.svg"/>
+
+<img width="55" src="https://cdn.svgporn.com/logos/java.svg"/>
+<img width="55" src="https://cdn.svgporn.com/logos/spring-icon.svg"/>
+
+<img width="55" src="https://cdn.svgporn.com/logos/python.svg"/>
+<img width="55" src="https://cdn.svgporn.com/logos/django-icon.svg"/>
+
+<img width="55" src="https://cdn.svgporn.com/logos/php.svg"/>
+<img width="55" src="https://cdn.svgporn.com/logos/wordpress-icon.svg"/>
+<img width="55" src="https://cdn.svgporn.com/logos/symfony.svg"/>
+<img width="55" src="https://cdn.svgporn.com/logos/laravel.svg"/>
+
+<img width="55" src="https://cdn.svgporn.com/logos/c-sharp.svg"/>
+<img width="55" src="https://cdn.svgporn.com/logos/dotnet.svg"/>
+<img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg"/>
+
+<img width="55" src="https://cdn.svgporn.com/logos/google-cloud.svg"/>
+<img width="55" src="https://cdn.svgporn.com/logos/digital-ocean.svg"/>
+
+<img width="55" src="https://cdn.svgporn.com/logos/firebase.svg"/>
+<img width="55" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
+<img width="55" src="https://cdn.svgporn.com/logos/mysql.svg"/>
+<img width="55" src="https://cdn.svgporn.com/logos/postgresql.svg"/>
+
+<img width="55" src="https://cdn.svgporn.com/logos/bootstrap.svg"/>
+<img width="55" src="https://cdn.svgporn.com/logos/sass.svg"/>
+
+<img width="55" src="https://cdn.svgporn.com/logos/karma.svg"/>
+<img width="55" src="https://cdn.svgporn.com/logos/protactor.svg"/>
+<img width="55" src="https://cdn.svgporn.com/logos/jest.svg"/>
+
+<img width="55" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"/>
+<img width="55" src="https://cdn.svgporn.com/logos/webstorm.svg"/>
+<img width="55" src="https://cdn.svgporn.com/logos/insomnia.svg"/>
+
+<img width="55" src="https://cdn.svgporn.com/logos/figma.svg"/>
+<img width="55" src="https://cdn.svgporn.com/logos/terminal.svg"/>
+
 <br>
+
 <p align="center">
 <a href="https://github.com/orbitturner" >
 <!-- ![Orbit's Github Stats](https://github-readme-stats.vercel.app/api?username=orbitturner&show_icons=true&theme=tokyonight&count_private=true) -->
   <img src="https://github-readme-stats.vercel.app/api?username=orbitturner&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
  </p>
+
 <br>
 
 <h1 align="center">📞 CONTACT ME ☎</h1>
