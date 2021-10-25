@@ -102,7 +102,9 @@ ________
 <a href="https://orbitturner.com">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=orbitturner&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=orbitturner&theme=black-ice&hide_border=true)
+<a href="https://orbitturner.com">
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=orbitturner&theme=black-ice&hide_border=true" />
+</a>
 </p>
 <!-- <p align="center">
 <a href="https://orbitturner.com">
