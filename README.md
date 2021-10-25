@@ -92,7 +92,7 @@ ________
 <p align="center">
 <a href="https://profile.codersrank.io/user/orbitturner/">
   <img width="400"
-    src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=orbitturner&badges=2&show-avatar=true&style=--header-bg-color:%23dc143c;--border-radius:10px"
+    src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=orbitturner&badges=2&show-avatar=true&style=--header-bg-color:%23dc143c;--border-radius:10px&branding=false"
   />
 </a>
 <!-- <a href="https://profile.codersrank.io/user/orbitturner/">
@@ -102,7 +102,7 @@ ________
 <a href="https://orbitturner.com">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=orbitturner&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
-</a>
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=orbitturner&theme=black-ice&hide_border=true)
 </p>
 <!-- <p align="center">
 <a href="https://orbitturner.com">
