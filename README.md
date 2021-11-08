@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="http://orbitturner.yj.fr/"><img src="https://github.com/orbitturner/orbitturner/blob/master/OrbitGalaxyGithub.png?raw=true" width="auto" alt="Orbit Welcome BG"/></a>
+  <a href="http://orbitturner.com/"><img src="https://github.com/orbitturner/orbitturner/blob/master/OrbitGalaxyGithub.png?raw=true" width="auto" alt="Orbit Welcome BG"/></a>
 </p>
  
  <p align="center"> 
