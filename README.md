@@ -89,19 +89,12 @@ ________
 <br>
 
 <h1 align="left">😉 Some Stats !📈</h1>
- <p align="center">
-  ![Metrics](https://metrics.lecoq.io/orbitturner?template=classic&languages=1&screenshot=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&screenshot.title=Screenshot&screenshot.url=https%3A%2F%2Forbitturner.com&screenshot.selector=body&screenshot.background=true&config.timezone=UTC)
-  </p>
 <p align="center">
 <a href="https://profile.codersrank.io/user/orbitturner/">
   <img width="400"
     src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=orbitturner&badges=2&show-avatar=true&style=--header-bg-color:%23dc143c;--border-radius:10px&branding=false"
   />
 </a>
-<!-- <a href="https://profile.codersrank.io/user/orbitturner/">
-  <img width="400"
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=portfolio&username=orbitturer&max-items=2&dates=false&style=--item-bg-color:%23dc143c;--item-border-radius:10px"
-/> -->
 <a href="https://orbitturner.com">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=orbitturner&show_icons=true&theme=tokyonight&count_private=true" />
 </a>
@@ -109,11 +102,11 @@ ________
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=orbitturner&theme=black-ice&hide_border=true" />
 </a>
 </p>
-<!-- <p align="center">
-<a href="https://orbitturner.com">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=orbitturner&show_icons=true&theme=tokyonight&count_private=true" />
-</a>
-</p> -->
+ <p align="center">
+   <img width="auto"
+    src="https://metrics.lecoq.io/orbitturner?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=UTC"
+  />
+  </p>
 
 <br>
 
