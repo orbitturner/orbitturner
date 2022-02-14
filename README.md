@@ -124,24 +124,13 @@ ________
 
 
 <br>
-<h2 align="left">My Most Visited Repos</h2>
+<h2 align="left">Github Resume</h2>
 <div align="center">
 
 <a href="https://github.com/orbitturner/orbit-jwt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=orbit-jwt" />
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=orbitturner&theme=redical" />
 </a>
 
-<a href="https://github.com/orbitturner/array-querier">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=array-querier" />
-</a>
-
-<a href="https://github.com/orbitturner/CLEAN-CODE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=CLEAN-CODE" />
-</a>
-
-<a href="https://github.com/orbitturner/Design-Pattern-Decorator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=orbitturner&repo=Design-Pattern-Decorator" />
-</a>
 </div>
 
 <br/>
