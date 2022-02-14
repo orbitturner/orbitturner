@@ -23,9 +23,9 @@
 ________
 <h1 align="left">🤩 About Orbit Turner 🤔</h1>
 <p  align="left">
-<strong>First, my real name is Mohamed GUEYE(😅) and I'm 22 Year Old.<br>
+<strong>Hello Ningens 🐱‍👤, I am a Space Conquerer from another Dimension 🔮.<br>
 Above all, I am passionate about 🚀Technology💻, 🧪Science🔭 and 🚗Cars🚘, but also a writer in my spare time.
-<br>Mainly, I am a FullStack Designer and Developer living in Dakar, Senegal.</strong>
+<br>As a Human undercover agent i'm a FullStack Designer and DevOps living in Dakar, Senegal.</strong>
 </p>
 
 
@@ -142,8 +142,7 @@ ________
 </a>
 </div>
 
-
-<!-- - [OIO PLATFORM](https://e-oio.com/) - *The first international and united learning platform.*. -->
+![snakeCommit](https://raw.githubusercontent.com/orbitturner/orbitturner/output/github-contribution-grid-snake.svg)
 
 <br/>
 <br/>
