@@ -23,9 +23,9 @@
 ________
 <h1 align="left">🤩 About Orbit Turner 🤔</h1>
 <p  align="left">
-<strong>Hello Ningens 🐱‍👤, I am a Space Conquerer from another Dimension 🔮.<br>
-Above all, I am passionate about 🚀Technology💻, 🧪Science🔭 and 🚗Cars🚘, but also a writer in my spare time.
-<br>As a Human undercover agent i'm a FullStack Designer and DevOps living in Dakar, Senegal.</strong>
+<strong>Hello Ningens 🐱‍👤, I am a Space Conquerer 🔮.<br>
+My life turns around 🚀Technology💻, 🧪Science🔭 and 🚗Cars🚘, and a little bit of writing in my spare time.
+<br>My tech journey is consisting of very nerdy stuffs like K8s, Docker, Linux, Angullar, NestJs, BI, Nginx and So on (Like All Sysadmins Stuffs).</strong>
 </p>
 
 
