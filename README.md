@@ -128,7 +128,7 @@ ________
 <div align="center">
 
 <a href="https://github.com/orbitturner/orbit-jwt">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=orbitturner&theme=redical" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=orbitturner&theme=redical" />
 </a>
 
 </div>
@@ -142,7 +142,11 @@ ________
 </a>
 </div>
 
-![snakeCommit](https://raw.githubusercontent.com/orbitturner/orbitturner/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <br/>
 <br/>
